@@ -1,3 +1,6 @@
+## Practice React
+본 프로젝트는 리액트를 연습하는 프로젝트입니다.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
