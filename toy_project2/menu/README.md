@@ -1,3 +1,7 @@
+## React 개발 연습
+개발자의 품격의 한시간 만에 끝나는 React.js 입문
+클론 코딩입니다.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
